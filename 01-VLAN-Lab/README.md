@@ -22,10 +22,12 @@ The lab consists of:
 * Multiple end devices
 * 3 configured VLANs
 * An 802.1Q trunk link between the switches
+* VLANs
 
-VLANs
+  ![Network Topology](topology.png)
 
 VLAN ID	Name
+
 10	Native
 20	IT
 30	HR

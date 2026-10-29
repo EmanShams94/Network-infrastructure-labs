@@ -86,8 +86,6 @@ Connectivity was tested between devices in the same VLAN across both switches.
 
 ## What I Learned
 
-## What I Learned
-
 - How to create and assign VLANs on Cisco switches.
 - How to configure an 802.1Q trunk between two switches.
 - How to restrict allowed VLANs on a trunk.

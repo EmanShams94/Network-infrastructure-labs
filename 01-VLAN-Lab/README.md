@@ -47,3 +47,25 @@ The configuration was verified using Cisco IOS show commands:
 - `show interfaces trunk`
 
 Connectivity was also tested between devices in the same VLAN across both switches.
+
+
+## Verification & Testing
+
+### Native VLAN Verification
+
+[▶️ Watch Native VLAN Verification](native-vlan-verify.mov)
+
+![Network Topology](trunk-switch0.PNG)
+![Network Topology](trunk-switch1.PNG)
+
+## Connectivity Testing
+
+Connectivity was tested between devices in the same VLAN across both switches.
+
+### Ping Test 1
+
+[▶️ Watch Ping Test 1](ping-vlan10.mov)
+
+### Ping Test 2
+
+[▶️ Watch Ping Test 2](ping-vlan30.mov)

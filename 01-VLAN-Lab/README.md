@@ -64,7 +64,7 @@ Connectivity was tested between devices in the same VLAN across both switches.
 
 ### Ping Test 1
 
-[▶️ Watch Ping Test 1](ping-vlan10.mov)
+[▶️ Watch Ping Test 1](ping-vlan20.JPG)
 
 ### Ping Test 2
 

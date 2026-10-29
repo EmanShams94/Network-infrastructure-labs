@@ -69,3 +69,26 @@ Connectivity was tested between devices in the same VLAN across both switches.
 ### Ping Test 2
 
 [▶️ Watch Ping Test 2](ping-vlan30.mov)
+
+# VLAN Segmentation & Inter-Switch Trunking Lab
+
+## Overview
+
+## Objective
+
+## Network Topology
+
+## VLANs
+
+## Trunk Configuration
+
+## Verification & Testing
+
+## What I Learned
+
+## What I Learned
+
+- How to create and assign VLANs on Cisco switches.
+- How to configure an 802.1Q trunk between two switches.
+- How to restrict allowed VLANs on a trunk.
+- How to verify VLAN and trunk configurations using Cisco IOS commands.
